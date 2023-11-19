@@ -1,5 +1,5 @@
 ;
-; slave_minh.asm
+; slave.asm
 ;
 ; Created: 11/18/2023 16:43:58
 ; Author : ASUS
